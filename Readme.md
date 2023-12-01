@@ -45,12 +45,12 @@ Remark for nodejs: install recommended for almost user
 -  Clone project
 
 ```bash
-  git clone <project>
+  git clone git@github.com:Nathapons/ML-FullStack.git
 ```
 
 -  Change directory to cloned project
 ```bash
-    cd <cloneproject>
+    cd ML-FullStack
 ```
 
 ## Backend installation (Django & Django Restframework)
