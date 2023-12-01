@@ -18,7 +18,7 @@
 - [Node.js](https://nodejs.org/en)
 - [Python installation](https://www.python.org/)
 
-Remark for nodejs: install recommended for almost user
+Remark for NodeJs: Install recommended for almost user
 
 ## Github clone project
 
@@ -32,3 +32,6 @@ git clone git@github.com:Nathapons/ML-FullStack.git
 ```bash
 cd ML-FullStack
 ```
+
+## Project Reference
+-  Link: [Github](https://github.com/lunica101/ie-project)
