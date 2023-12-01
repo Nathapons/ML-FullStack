@@ -35,3 +35,70 @@ cd ML-FullStack
 
 ## Project Reference
 -  Link: [Github](https://github.com/lunica101/ie-project)
+
+## Programming installtion
+
+- [Node.js](https://nodejs.org/en)
+- [Python installation](https://www.python.org/)
+
+Remark for nodejs: install recommended for almost user
+
+## Github clone project
+
+-  Clone project
+
+```bash
+  git clone <project>
+```
+
+-  Change directory to cloned project
+```bash
+    cd <cloneproject>
+```
+
+## Backend installation (Django & Django Restframework)
+
+**Change directory to backend**
+```bash
+    cd server
+```
+**Install python environment**
+```bash
+    python3 -m venv env
+```
+
+**Activate Python environment in terminal**
+- For windows
+```bash
+    env\Scripts\activate
+```
+
+-  For linux
+```bash
+    source env/bin/activate
+```
+**Install Python requirement package**
+```bash
+   pip install -r requirements.txt
+```
+**Run Django**
+```bash
+    python mananger.py runserver
+```
+Remark:
+
+## Frontend installation (React.Js)
+
+**Change directory to frontend**
+```bash
+    cd client
+```
+**Install node module package**
+```bash
+    npm install
+```
+
+**Run React.Js**
+```bash
+    npm start
+```
