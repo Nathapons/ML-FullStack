@@ -3,8 +3,8 @@
 - Frontend: React.js (Javascript)
 - Backend: Django rest framework (Python)
 
-
-
+## Project Reference
+-  Link: [Github](https://github.com/lunica101/ie-project)
 
 ## Basic knowledge (Must know)
 
@@ -32,9 +32,6 @@ git clone git@github.com:Nathapons/ML-FullStack.git
 ```bash
 cd ML-FullStack
 ```
-
-## Project Reference
--  Link: [Github](https://github.com/lunica101/ie-project)
 
 ## Programming installtion
 
