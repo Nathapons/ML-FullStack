@@ -11,7 +11,7 @@
  - [React.Js: Quck start](https://react.dev/learn)
  - [Django ORM](https://docs.djangoproject.com/en/4.2/topics/db/queries/)
  - [Django model](https://docs.djangoproject.com/en/4.2/topics/db/models/)
- - [Django Restframework](https://www.django-rest-framework.org/tutorial/quickstart/)
+ - [Django Restframework: Quick start](https://www.django-rest-framework.org/tutorial/quickstart/)
 
 ## Programming installtion
 
